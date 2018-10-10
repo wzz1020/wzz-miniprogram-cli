@@ -1,8 +1,12 @@
 Component({
+  // options: {
+  //   addGlobalClass: true,
+  // },
+  // externalClasses: ['index'],
   properties: {
     prop: {
       type: String,
-      value: 'index.properties22'
+      value: 'index.properties'
     },
   },
   lifetimes: {

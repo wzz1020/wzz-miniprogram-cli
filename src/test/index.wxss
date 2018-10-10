@@ -1,3 +1,7 @@
+@import '../styles/variables.wxss';
 .index {
-  color: green;
+  color: @green;
+  &_a {
+    width: 10px;
+  }
 }
